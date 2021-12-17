@@ -1,0 +1,270 @@
+body
+{
+    font-family: Helvetica,Arial,sans-serif;
+    margin: 0px;
+    padding: 0px ;
+    height:100%;
+    overflow: hidden;
+}
+
+nav
+{
+    
+    background-color:#424558;
+    text-align: center;
+    font-size: 20px;
+    height: 100%;
+    width: 200px;
+}
+
+
+nav ul 
+{
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
+
+
+nav li 
+{
+    list-style-type: none;
+    font-size: 23px;
+    padding-top: 0px;
+
+    
+} 
+
+nav a 
+{
+    display:inline-block;
+    text-decoration: none;
+    padding: 40px;
+    color: #FFF;
+}
+
+.layout{
+    display: inline-flex;
+    height:95%;
+}
+.menu-test1:hover
+{
+    border-left: 5px solid white;
+    background-color: rgba(255, 255, 255, 0.15);
+}
+
+.menu-test2:hover
+{
+    border-left: 5px solid white;
+    background-color: rgba(255, 255, 255, 0.15);
+}
+
+.menu-magnolia:hover
+{
+    border-left: 5px solid white;
+    background-color: rgba(255, 255, 255, 0.15);
+}
+
+.nl 
+{
+    color:#888c94 ;
+}
+
+.magnolia
+{
+    height: 10%;
+    background-color:  #FFF;
+    color: #424558;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius:  0px;
+    box-shadow: 0 12px 18px rgba(0,0,0, .1);
+    display: flex;
+    font-family:sans-serif;
+    align-items: center;
+    padding-left: 10px;
+}
+
+.téléphone 
+{
+    padding-top: 750px;
+
+}
+
+
+
+    
+.accueil
+{
+    color: #FFF;
+    text-decoration: none;
+    margin-right: 25px;
+
+
+}
+.footer
+{
+    bottom: 0;
+    left: 0;
+    font-size: 25px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    background-color: #424558;
+    height: 80px;
+    width: 100%;
+    padding-right: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    position:absolute;
+}
+
+
+.logoM
+{
+   position: absolute;
+   margin-top: 12px;
+   margin-left: 30px;
+}
+
+.textmagnolia 
+{
+    margin-top: 10px;
+    margin-left: 130px;
+    display:block;
+}
+
+.content 
+{
+    top: 120px;
+    width: 100%;
+    left:40%;
+    
+
+}
+
+.imgfooter
+{
+    left:70%;
+    position: absolute;
+}
+
+.numtel
+{
+    left:73%;
+    position: absolute;
+    margin-top: 0px;
+    color:#888c94;
+}
+
+.numtel:hover
+{
+    color: #1fc278;
+}
+
+.title
+{
+    font-size: 30pt;
+    text-align: center;
+    padding-left: 27%;
+    font-weight: 900;
+}
+
+.title1
+{
+    font-size: 30pt;
+    text-align: center;
+    padding-left: 23%;
+    font-weight: 900;
+}
+
+.title2
+{
+    font-size: 25pt;
+    text-align: center;
+    font-weight: 900;
+}
+.imgfooter2
+{
+    left:38%;
+    position: absolute;
+
+    
+}
+
+.mail
+{
+    left:41%;
+    position: absolute;
+    margin-top: 0px;
+    color:#888c94;
+    text-decoration: none;
+}
+
+.mail:hover
+{
+    color: #1fc278;
+}
+
+
+.imgfooter3
+{
+    left:5%;
+    position: absolute;
+}
+
+.loc
+{
+    left:9%;
+    margin-left: 9px;
+    color:#888c94;
+    margin-right: 896px;
+    text-decoration: none;
+
+}
+
+.loc2
+{
+    left:9%;
+    margin-left: 9px;
+    color:#888c94;
+    margin-right: 981px;
+    text-decoration: none;
+
+}
+
+.loc:hover, .loc2:hover
+{
+    color: #1fc278; 
+}
+   
+.menu-pr
+{
+    height: 100px;
+    background-color:  #FFF;
+    color: #424558;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius:  0px;
+    box-shadow: 0 12px 18px rgba(0,0,0, .1);
+    display: flex;
+    font-family:sans-serif;
+    align-items: center;
+    padding-left: 10px;
+}
+
+.layout2
+{
+    display: inline-flex;
+    height:95%;
+
+}
+.tel
+{
+    text-decoration: none;
+    color:#888c94;
+}
+
+.tel:hover
+{
+color:#1fc278 ;
+}
+
