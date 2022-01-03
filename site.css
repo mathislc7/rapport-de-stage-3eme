@@ -144,19 +144,28 @@ nav a
 
 .imgfooter
 {
-    left:70%;
+    left:38%;
     position: absolute;
 }
+
 
 .numtel
 {
     left:73%;
     position: absolute;
-    margin-top: 0px;
+    margin-top: 2%;
     color:#888c94;
 }
 
-.numtel:hover
+.numtel2
+{
+    left:73%;
+    position: absolute;
+    margin-top: 2%;
+    color:#888c94;
+}
+
+.numtel:hover, .numtel2:hover
 {
     color: #1fc278;
 }
@@ -185,7 +194,7 @@ nav a
 }
 .imgfooter2
 {
-    left:38%;
+    left:70%;
     position: absolute;
 
     
@@ -267,4 +276,11 @@ nav a
 {
 color:#1fc278 ;
 }
+
+.text1
+{
+    margin-left: 20%;
+    position: absolute;
+}
+
 
